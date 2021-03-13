@@ -1,0 +1,12 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.tech {
+  gap: 0.5rem;
+  & span {
+    padding: 0 0.25rem 0.25rem;
+    border-bottom: 1px solid black;
+  }
+}
